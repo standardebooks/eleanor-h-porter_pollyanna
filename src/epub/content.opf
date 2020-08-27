@@ -50,7 +50,13 @@
 		<meta property="se:subject">Childrens</meta>
 		<dc:description id="description">An orphan’s unrelenting optimism sees her through adversity and lifts up her new community.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Pollyanna&lt;/i&gt; is the story of how an orphan’s unrelenting optimism sees her through adversity and lifts up her new community.&lt;/p&gt;
+			<p> Eleven year-old Pollyanna is sent back East to be cared for by her dutiful and stoic Vermont aunt, having been orphaned by her widower father. 
+			Naive and ever-literal, this young girl brings with her the infectious habit of gratitude and positivity, 
+			taught to her as a game by her late father. This game serves her well, but also uplifts the turn of the century New England town in which she finds herself.</p>
+			<p>The novel Pollyanna inspired the production of 5 feature length films and 15 subsequent novels, including those written by 6 other authors. 
+			It was a best-selling children's book when published, while also being a gentle contemporary <a href="https://www.researchgate.net/publication/325769022_The_veritable_bugle-call_An_Examination_of_Pollyanna_through_the_Lens_of_Twentieth-Century_Protestantism">social critique</a>.
+			While in everyday speech, the eponymous Pollyanna has become associated with an irrational optimism, the attitude of thankfulness has received much attention in recent years and in psychology
+			the <a href="https://en.wikipedia.org/wiki/Pollyanna_principle">Pollyanna Principle</a> is used to describe a posiviity bias.</p> 
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1450</dc:source>
