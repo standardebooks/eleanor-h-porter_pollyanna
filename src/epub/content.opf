@@ -59,7 +59,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1450</dc:source>
 		<dc:source>https://archive.org/details/pollyanna00port_2</dc:source>
-		<meta property="se:word-count">59009</meta>
+		<meta property="se:word-count">59008</meta>
 		<meta property="se:reading-ease.flesch">83.66</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pollyanna</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/eleanor-h-porter_pollyanna</meta>
